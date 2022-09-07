@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![20220901200824_1](https://user-images.githubusercontent.com/6264291/188959220-f50c8969-0749-42d5-9ba3-1c43e43d637e.jpg)
+
+
 <!--
 **dKab/dKab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

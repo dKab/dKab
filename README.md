@@ -1,5 +1,4 @@
-🇺🇦 🏳️‍⚧️ 🏳️‍🌈 🇵🇸 ✊ 
-
+Software engineer with 10 years of experience in frontend and full-stack development. Focused on accessibility, semantic HTML, and building scalable web applications. Backend experience with Node.js in production. Comfortable working across frontend technologies and adapting to different stacks
 <!--
 **dKab/dKab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
